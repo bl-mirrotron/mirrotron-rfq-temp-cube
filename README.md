@@ -1,1 +1,1 @@
-# blinky-bus-cube
+# mirrotron-rfq-temp-cube
