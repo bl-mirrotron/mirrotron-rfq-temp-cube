@@ -1,5 +1,5 @@
 # RFQ Temperature Cube
-* <a href="https://github.com/bl-mirrotron/mirrotron-rfq-temp-cube" target="_blank">source code</a>
+* <a href="https://github.com/bl-mirrotron/mirrotron-rfq-temp-cube" target="_blank">Source code</a>
 * [Cooling system 0verview](https://docs.bl-mirrotron.com/#cooling-system)
 * [Control system overview](https://docs.bl-mirrotron.com/)
 
